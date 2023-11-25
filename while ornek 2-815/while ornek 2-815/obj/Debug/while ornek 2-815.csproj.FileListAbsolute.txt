@@ -1,0 +1,10 @@
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\bin\Debug\while ornek 2-815.exe.config
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\bin\Debug\while ornek 2-815.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\bin\Debug\while ornek 2-815.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while ornek 2-815.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while_ornek_2_815.Form1.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while_ornek_2_815.Properties.Resources.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while ornek 2-815.csproj.GenerateResource.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while ornek 2-815.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while ornek 2-815.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while ornek 2-815\while ornek 2-815\obj\Debug\while ornek 2-815.pdb
